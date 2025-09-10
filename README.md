@@ -2,7 +2,7 @@
 
 A static, responsive website for the **National Art Museum of Ukraine**, showcasing exhibitions, events, gallery, and contact information. Built with **HTML, SCSS, and JavaScript**.
 
-[Live Demo](#) _(Insert your live demo link here if available)_
+([DEMO](https://saxong.github.io/NAMU/))
 
 ---
 
