@@ -30,7 +30,7 @@ Experience the live website:  [NAMU](https://saxong.github.io/NAMU/);
 ---
 
 ## Project Structure
-
+```
 src/
 ├── fonts/ # Custom fonts
 ├── images/ # All images and icons
@@ -40,6 +40,7 @@ src/
 │ ├── blocks/ # SCSS files for specific blocks (header, footer, main content, menu)
 │ └── utils/ # SCSS utility files (\_vars, \_mixins, \_normalize, \_typography, utils)
 └── index.html # Main HTML file
+```
 
 ---
 
