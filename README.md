@@ -4,9 +4,7 @@ A static, responsive website for the **National Art Museum of Ukraine**, showcas
 
 
 ## Live Demo
-Experience the live website:  [PhoneCatalog](https://saxong.github.io/NAMU/);
-
-([DEMO]())
+Experience the live website:  [NAMU](https://saxong.github.io/NAMU/);
 
 ---
 
