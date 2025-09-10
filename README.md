@@ -62,12 +62,4 @@ git clone https://github.com/SaXoNG/NAMU.git
 Open index.html in your browser.
 
 Ensure all assets (images, fonts, styles) are in the correct folder structure.
-
-Future Improvements
-
-Add dynamic content loading for events and gallery.
-
-Implement form validation feedback for invalid submissions.
-
-Enhance slider with swipe support for mobile devices.
 ```
