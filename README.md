@@ -74,4 +74,7 @@ npm install
 ```bash
 npm start
 ```
+## Node version
+
+v20.18.0
 
