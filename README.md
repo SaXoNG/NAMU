@@ -58,8 +58,20 @@ src/
 
 ```bash
 git clone https://github.com/SaXoNG/NAMU.git
-
-Open index.html in your browser.
-
-Ensure all assets (images, fonts, styles) are in the correct folder structure.
 ```
+2. Navigate into the project folder:
+
+```bash
+cd your-repo
+```
+3. Install dependencies:
+
+```bash
+npm install
+```
+4. Running the App:
+
+```bash
+npm start
+```
+
